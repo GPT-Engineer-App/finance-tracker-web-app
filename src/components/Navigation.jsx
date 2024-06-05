@@ -13,6 +13,9 @@ const Navigation = () => {
       <Link as={RouterLink} to="/gastos">
         Gastos
       </Link>
+      <Link as={RouterLink} to="/investimentos">
+        Investimentos
+      </Link>
     </HStack>
   );
 };
