@@ -1,6 +1,7 @@
 // Update this page (the content is just a fallback if you fail and example)
 // Use chakra-ui
 import { Container, Text, VStack } from "@chakra-ui/react";
+import Navigation from "../components/Navigation.jsx";
 
 // Example of using react-icons
 // import { FaRocket } from "react-icons/fa";
