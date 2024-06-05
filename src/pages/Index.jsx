@@ -11,8 +11,8 @@ const Index = () => {
   return (
     <Container centerContent maxW="container.md" height="100vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
       <VStack spacing={4}>
-        <Text fontSize="2xl">Your Blank Canvas</Text>
-        <Text>Chat with the agent to start making edits.</Text>
+        <Text fontSize="2xl">Bem-vindo ao seu Gerenciador Financeiro</Text>
+        <Text>Gerencie suas economias e gastos de forma fácil e eficiente.</Text>
       </VStack>
     </Container>
   );
